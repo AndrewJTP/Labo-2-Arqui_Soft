@@ -1,0 +1,16 @@
+D:\arqui_soft\labo-2\bin\Debug\net5.0\labo-2.exe
+D:\arqui_soft\labo-2\bin\Debug\net5.0\labo-2.deps.json
+D:\arqui_soft\labo-2\bin\Debug\net5.0\labo-2.runtimeconfig.json
+D:\arqui_soft\labo-2\bin\Debug\net5.0\labo-2.runtimeconfig.dev.json
+D:\arqui_soft\labo-2\bin\Debug\net5.0\labo-2.dll
+D:\arqui_soft\labo-2\bin\Debug\net5.0\ref\labo-2.dll
+D:\arqui_soft\labo-2\bin\Debug\net5.0\labo-2.pdb
+D:\arqui_soft\labo-2\obj\Debug\net5.0\labo-2.csprojAssemblyReference.cache
+D:\arqui_soft\labo-2\obj\Debug\net5.0\labo-2.GeneratedMSBuildEditorConfig.editorconfig
+D:\arqui_soft\labo-2\obj\Debug\net5.0\labo-2.AssemblyInfoInputs.cache
+D:\arqui_soft\labo-2\obj\Debug\net5.0\labo-2.AssemblyInfo.cs
+D:\arqui_soft\labo-2\obj\Debug\net5.0\labo-2.csproj.CoreCompileInputs.cache
+D:\arqui_soft\labo-2\obj\Debug\net5.0\labo-2.dll
+D:\arqui_soft\labo-2\obj\Debug\net5.0\ref\labo-2.dll
+D:\arqui_soft\labo-2\obj\Debug\net5.0\labo-2.pdb
+D:\arqui_soft\labo-2\obj\Debug\net5.0\labo-2.genruntimeconfig.cache
